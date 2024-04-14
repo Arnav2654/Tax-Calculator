@@ -1,11 +1,14 @@
 # Tax-Calculator
 
-![Screenshot (157)](https://github.com/Arnav2654/Tax-Calculator/assets/128738350/c0261dd6-c494-434c-ad10-32baf525a0da)
+![Screenshot1 (157)](https://github.com/Arnav2654/Tax-Calculator/assets/128738350/eb53adcc-5c06-4310-8a58-595151898fcd)
 
-![Screenshot (156)](https://github.com/Arnav2654/Tax-Calculator/assets/128738350/a4570fb1-abd0-40d7-a0a1-72c70849ab6a)
+![Screenshot 2(156)](https://github.com/Arnav2654/Tax-Calculator/assets/128738350/094662db-2326-42a8-8cf2-d0ba3f18b26d)
+
 
 
 Tax calculator project built with HTML, CSS, and JavaScript
+
+
 
 Overview
 This Tax Calculator is a web-based tool designed to help individuals estimate their tax liabilities based on their income, deductions, and other relevant factors. It is implemented using HTML, CSS, and JavaScript, making it easy to use and accessible across different devices.
