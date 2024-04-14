@@ -33,13 +33,5 @@ Income: Enter your annual income (e.g., $12,000).
 
 Deductions: Enter any deductions you may have, such as mortgage interest or charitable contributions.
 Calculate: The tax calculator will update with your estimated tax liability based on the provided information.
-Contributing
-Contributions to this project are welcome! If you'd like to contribute, please follow these steps:
 
-Fork the repository.
 
-Create a new branch (git checkout -b feature/your-feature-name).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/your-feature-name).
-Create a new pull request.
